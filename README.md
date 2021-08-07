@@ -1,0 +1,1 @@
+## FastAPI and MySQL Boilerplate
